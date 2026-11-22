@@ -361,7 +361,7 @@ under the License.
         <groupId>io.opentelemetry.javaagent</groupId>
         <artifactId>opentelemetry-javaagent</artifactId>
         <!-- This version was selected because it aligns with the version of open telemetry that Accumulo is using. -->
-        <version>2.26.1</version>
+        <version>2.33.1</version>
       </dependency>
       <dependency>
         <groupId>io.opentelemetry.proto</groupId>
